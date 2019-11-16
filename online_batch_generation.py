@@ -1,6 +1,6 @@
 """
 -------------------------------------------------
-   File Name:   online_batch_retrieve.py
+   File Name:   online_batch_generation.py
    Description: this code is to sample entity context and negative entities for training.
    Author:  Ruijie Wang (https://github.com/xjdwrj)
    date:    14 Nov. 2019
