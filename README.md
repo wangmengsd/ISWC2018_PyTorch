@@ -96,7 +96,7 @@ should be replaced by:
 <img src="https://github.com/wangmengsd/ISWC2018_PyTorch/blob/master/r.png" width="450"/>
 
 
-## Other graph-embedding based KG query paper:
+## Other graph-embedding based KG query papers:
 
 *Learning to Hash for Efficient Search over Incomplete Knowledge Graphs. Meng Wang, Haomin Shen, Sen Wang, Lina Yao, Yinlin Jiang, Guilin Qi and Yang Chen. In the 19th International Conference on Data Mining (ICDM 2019).
 
