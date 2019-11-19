@@ -98,6 +98,10 @@ should be replaced by:
 
 Other graph-embedding based KG query paper:
 
+*Learning to Hash for Efficient Search over Incomplete Knowledge Graphs. Meng Wang, Haomin Shen, Sen Wang, Lina Yao, Yinlin Jiang, Guilin Qi and Yang Chen. In the 19th International Conference on Data Mining (ICDM 2019).
+
 *Embedding Logical Queries on Knowledge Graphs. William L. Hamilton, Marinka Zitnik, Payal Bajaj, Dan Jurafsky, Jure Leskovec. In Proceedings of NIPS. Dec. 2018. 
+
+*Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs. Mai G, Janowicz K, Yan B, et al. In Proceedings of the 10th International Conference on Knowledge Capture. ACM, 2019: 171-178.
 
 *TrQuery: An Embedding-based Framework for Recommanding SPARQL Queries. Lijing Zhang, Xiaowang Zhang, Zhiyong Feng. In Proceedings of ICTAI. Nov. 2018.
